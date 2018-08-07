@@ -23,7 +23,7 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-puts breakfast("scrambled eggs")
+breakfast("scrambled eggs")
 
 puts lunch("soup")
 
