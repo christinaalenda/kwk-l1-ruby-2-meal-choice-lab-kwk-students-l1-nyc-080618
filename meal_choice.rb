@@ -5,7 +5,7 @@ end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them. If nothing is passed in, it shoud default to the foods on the readme (frosted flake, grilled cheese, salmon)
 
-def breakfast(food="frosted flakes")
+def breakfast(food)
   "Morning is the best time for #{food}!"
 end
 
@@ -18,7 +18,7 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-
+breakfast(scrambled eggs)
 
 # Call your methods without any arguments here
 puts snacks
