@@ -9,6 +9,9 @@ def breakfast(food)
   "Morning is the best time for #{food}!"
 end
 
+def lunch(snack)
+  ""
+end
 
 
 
